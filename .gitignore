@@ -1,0 +1,14 @@
+
+\.idea/
+
+\.ipynb_checkpoints/
+
+venv/
+
+data/test\.p
+
+data/traffic-signs-data\.zip
+
+data/train\.p
+
+data/valid\.p
